@@ -6,7 +6,7 @@ using System.Windows.Data;
 namespace Project08
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// 3.4	Лабораторная работа № 4. Тема: «Отладка и тестирование ПС» Вариант №22 https://github.com/Hawinar
     /// </summary>
     public partial class MainWindow : Window
     {
